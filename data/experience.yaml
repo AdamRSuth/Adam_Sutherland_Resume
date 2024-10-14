@@ -1,0 +1,62 @@
+- company: University of Arizona
+  roles:
+    - role: Graduate Research Assistant
+      details: |
+        - Performed domain and methodology literature reviews for machine learning and deep learning (ML/DL) models for cybersecurity research.
+        - Applied large language models (LLMs) to open-source Infrastructure as Code (IaC) platform Kubernetes.
+        - Automated the data collection and vulnerability scanning of 7,156 public Helm repositories for training data using bash and python scripts.
+      date: August 2023 - Present
+
+- company: Sandia National Laboratories
+  page: 1
+  roles: 
+    - role: TITANS Software Intern
+      details: |
+        - Integrated workflows from Microsoft SQL Database to external applications for viewing and transforming data into actionable knowledge for high-performance computing (HPC) support and operational teams.
+        - Implemented and applied Sandia cyber policy and NIST Risk Management Framework (RMF) to create, review, and submit standalone cybersecurity plans for cyber-physical systems (CPS) and industrial control systems (ICS).
+        - Developed and published live interactive dashboards to Gitlab repositories for HPC teams and management to increase operational efficiency.
+      date: May 2024 - August 2024
+    
+    - role: TITANS Software Intern
+      date: May 2023 - May 2023
+      details: |
+        - Automated and documented the data flow between RedHat Satellite servers and custom SQL servers through embedded Ruby and Python scripts, for audited and standardized Linux environments.
+        - Created and analyzed live interactive data dashboards, driving enhanced efficiency.
+        - Developed and deployed a machine-learning algorithm in a team environment and identified and classified images.
+
+- company: UofA College of Digital Humanities
+  page: 2
+  roles:
+    - role: Research Assistant
+      details: |
+        - Developed and maintained applications for clients using waterfall and agile project management methodologies.
+        - Optimized development procedures across multiple projects using mobile device management systems.
+        - Administered an average of 8 client meetings a month creating project plans and streamlining project assignments.
+      date: August 2020 - May 2023
+
+- company: Tech Core
+  page: 2
+  roles: 
+    - role: Data Science Intern
+      details: |
+        - Collaborated on a team of six to clean and organize data representing 8,000 university students.
+        - Developed an interactive data dashboard for the UofA Provost using Excel and Tableau.
+        - Compiled Likert scale data and created metadata references for data filters.
+      date: June 2021 - August 2021
+    
+    - role: Emerging Technology Intern
+      date: June 2020 - August 2020
+      details: |
+        - Documented the development process for implementing virtual reality environments, resulting in decreased development time for virtual reality applications.
+        - Visualized interactive three-dimensional data in Virtual Reality using Unity and C# to create new ways to analyze data visually.
+        - Developed and maintained trainings and lessons for 3 Virtual Reality courses at the UofA.
+
+- company: Nextrio LLC
+  page: 2
+  roles:
+    - role: Windows 10 Deployment Team Intern
+      details: |
+        - Improved efficiency processes by updating, installing, and deploying windows images for seven clients.
+        - Coordinated the breakdown and inventory of client network and workstation hardware.
+        - Organized and developed new windows images for a variety of platforms.
+      date: July 2019 - August 2019

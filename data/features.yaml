@@ -1,0 +1,35 @@
+about:
+  name: Adam Sutherland
+  tagline: Graduate MIS Student
+  phone: "520-780-6829"
+  email: adamsutherland1@arizona.edu
+  links:
+    - title: /in/adamsutherland
+      url: https://www.linkedin.com/in/adam-r-sutherland/
+      icon: fab fa-linkedin
+    - title: AdamRSuth
+      url: https://github.com/AdamRSuth
+      icon: fab fa-github
+  details: 
+    Hi, my name is Adam Sutherland! I am a Management Information Systems Masters student pursuing my degree at the UofA, Eller College of Management. Determined to bring my knowledge and experience in information technology and data science to solve new challenging problems.
+
+skills:
+  - groupName: Programming & OS
+    list:
+      - Python - SQL - C# - R - Widows - Debian - Ubuntu
+
+  - groupName: Database
+    list:
+      - NoSQL - Spark - Hadoop - Apache
+
+  - groupName: Cybersecurity
+    list:
+      - Nmap - Nessus - Archer - Trivy - Wireshark
+
+  - groupName: Other
+    list:
+      - Git - Jira - Kubernetes
+
+languages:
+  - name: English
+    level: Native
